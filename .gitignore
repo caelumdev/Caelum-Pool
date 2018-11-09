@@ -1,3 +1,8 @@
+# Sensitive data
+pool.config.js
+account.config.js
+test.account.config.js
+
 # Logs
 logs
 *.log
